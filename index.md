@@ -1,3 +1,6 @@
+title: Clair Hair
+
+
 ## Welcome to Clares Hair Place
 
 ![alt text](troll.jpg)
