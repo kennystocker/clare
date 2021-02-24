@@ -1,4 +1,4 @@
-## Welcome to Clares Hair
+## Welcome to Clares Hair Place
 
 ![alt text](troll.jpg)
 
