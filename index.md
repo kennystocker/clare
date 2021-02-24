@@ -1,6 +1,6 @@
 ## Welcome to Clares Hair
 
-![alt text](https://github.com/kennystocker/clare/blob/gh-pages/troll.jpg)
+![alt text](troll.jpg)
 
 Superstar hairdresser based in Derbyshire.
 
