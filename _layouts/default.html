@@ -41,7 +41,7 @@
 
         <footer>
         {% if site.github.is_project_page %}
-          {{ site.title | default: site.github.repository_name }} | page.location<br>
+          {{ site.title | default: site.github.repository_name }} | {{ page.location }}<br>
         {% endif %}
         </footer>
 
