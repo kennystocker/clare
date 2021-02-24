@@ -5,7 +5,7 @@ title: Clair Hair
 
 ![alt text](troll.jpg)
 
-Superstar hairdresser based in Derbyshire.
+Superstar hairdresser based in Derbyshires
 
 > I can cut your hair.
 
