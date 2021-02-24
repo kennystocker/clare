@@ -6,12 +6,12 @@ Superstar hairdresser based in Derbyshire.
 
 ### Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See what Clair can do...
 
 - Cuts hair
 - Curls hair
 - Colours hair
-- 
+
 ### Inspiration
 
 [Instagram Gallery](https://instagram.com) | [Twitter](https://twitter.com)
