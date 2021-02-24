@@ -1,5 +1,7 @@
 ## Welcome to Clares Hair
 
+![Hair](https://github.com/kennystocker/clare/blob/gh-pages/troll.jpg "Clairs Hair")
+
 Superstar hairdresser based in Derbyshire.
 
 ### Services
@@ -9,11 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Cuts hair
 - Curls hair
 - Colours hair
-
-[Link](url) and ![Image](src)
-
-
-
+- 
 ### Inspiration
 
 [Instagram Gallery](https://instagram.com) | [Twitter](https://twitter.com)
