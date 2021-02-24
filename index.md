@@ -1,8 +1,10 @@
 ## Welcome to Clares Hair
 
-![alt text] (https://github.com/kennystocker/clare/blob/gh-pages/troll.jpg)
+![alt text](https://github.com/kennystocker/clare/blob/gh-pages/troll.jpg)
 
 Superstar hairdresser based in Derbyshire.
+
+> I can cut your hair.
 
 ### Services
 
