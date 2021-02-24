@@ -1,9 +1,6 @@
 ---
-title: Clair Hair
+title: Claire's Hair
 ---
-
-# Clare's Hair 
-## Mobile hairdressing in Derby and Ripley area.
 
 ![alt text](troll.jpg)
 
