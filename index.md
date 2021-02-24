@@ -1,12 +1,12 @@
 ## Welcome to Clares Hair
 
-![Hair](https://github.com/kennystocker/clare/blob/gh-pages/troll.jpg "Clairs Hair")
+![alt text](https://github.com/kennystocker/clare/blob/gh-pages/troll.jpg "Clairs Hair")
 
 Superstar hairdresser based in Derbyshire.
 
 ### Services
 
-See what Clair can do...
+See what Clare can do...
 
 - Cuts hair
 - Curls hair
