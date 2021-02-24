@@ -1,11 +1,12 @@
+---
 title: Clair Hair
-
+---
 
 ## Welcome to Clares Hair Place
 
 ![alt text](troll.jpg)
 
-Superstar hairdresser based in Derbyshires
+Superstar hairdresser based in Derbyshire.
 
 > I can cut your hair.
 
