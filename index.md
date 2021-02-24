@@ -16,10 +16,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Inspiration
 
-[Instagram Gallery](https://instagram.com) | [Twitter] (https://twitter.com)
+[Instagram Gallery](https://instagram.com) | [Twitter](https://twitter.com)
 
 ### Contact
 
-If you have a hair emergency contact Clare at:
+If you have a hairmergency contact Clare at:
 
 Tel: 123456
