@@ -2,7 +2,7 @@
 title: Claire's Hair
 ---
 
-![alt text](troll.jpg)
+![alt text](claire_1.jpg)
 
 ## Book your post lock down cut and colour now!
 
@@ -27,7 +27,7 @@ title: Claire's Hair
 - Regular customers benefit from a 10% discount.
 
 ### About Clare:
-![alt text](troll.jpg)![alt text](troll.jpg)
+![alt text](claire_2.jpg)![alt text](claire_3.jpg)
 
 Clare is an independent hairdresser based in the Derby area. Clare offers a wide range of professional colouring and styling services with superior, personal service, hassle-free in your own home. 
 
