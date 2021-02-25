@@ -12,17 +12,19 @@ title: Claire's Hair
 **07788606263 - text / WhatsApp**
 
 ### Price list
-Cut and finish £22.00
-Retouch £34.00
-Full head £42.00
-Highlights £55.00
-Balaylage £60.00
-Colour correction from £65
-Occasion styling: from £15
-Travel cost over 20 miles from Derby £5.00
-Under 5s £5.00
-Under 10s: £10
+- Cut and finish £22.00
+- Retouch £34.00
+- Full head £42.00
+- Highlights £55.00
+- Balaylage £60.00
+- Colour correction from £65
+- Occasion styling: from £15
+- Travel cost over 20 miles from Derby £5.00
+- Under 5s £5.00
+- Under 10s: £10
 
+### Discounts
+- Regular customers benefit from a 10% discount.
 
 ### About Clare:
 ![alt text](troll.jpg)![alt text](troll.jpg)
