@@ -1,5 +1,5 @@
 ---
-title: Claire's Hair
+title: Clare's Hair
 ---
 
 ![alt text](clare_1.jpg)
